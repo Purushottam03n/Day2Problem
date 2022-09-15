@@ -13,7 +13,7 @@ public class VowelSwitch {
                 case 'i':
                 case 'o':
                 case 'u':
-                    System.out.println("You have entered VOWEL");
+                    System.out.println("You have entered an VOWEL");
                 break;
                 default:
                     System.out.println("You have entered VOWEL");
