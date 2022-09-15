@@ -4,7 +4,7 @@ public class Ifelse2 {
     public static void main(String[] args) {
         int numb;
 
-        System.out.println("Please Choose a Number feom 1, 10, 100, 1000");
+        System.out.println("Please Choose a Number from 1, 10, 100, 1000");
         Scanner sc = new Scanner(System.in);
         numb = sc.nextInt();
 
